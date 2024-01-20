@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C# , OOP, and Bootstrap , or anything related to Full Stack development.
 - 👨‍💻 Check out my portfolio at https://abanoubgirgis.github.io/Portfolio/AbanoubPortfolio/ to see some of the projects I've worked on.
 
