@@ -18,8 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abanoub-girgis-150bb0209" target="_blank">
-
+<a href="https://www.linkedin.com/in/abanoub-girgis-150bb0209" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Girgis-0173b4"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
